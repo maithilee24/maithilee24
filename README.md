@@ -2,7 +2,7 @@
 # Hello there 👋 I'm Maithilee Pardhi
 
 ## 💫 About Me
-I'm Maithilee Pardhi, a passionate full stack web developer currently in my pre-final year pursuing a Bachelor's degree in Electronics and Communication Engineering at the National Institute of Technology, Patna. I'm deeply enthusiastic about learning new web technologies and have a strong passion for problem solving, which fuels my interest in competitive programming. Beyond coding, I love playing badminton and expressing my creativity through drawing and digital design. Currently, I'm focused on enhancing my backend development skills to build more robust applications.
+I'm Maithilee Pardhi, a passionate full stack web developer currently in my final year pursuing a Bachelor's degree in Electronics and Communication Engineering at the National Institute of Technology, Patna. I'm deeply enthusiastic about learning new web technologies and have a strong passion for problem solving, which fuels my interest in competitive programming. Beyond coding, I love playing badminton and expressing my creativity through drawing and digital design. Currently, I'm focused on enhancing my backend development skills to build more robust applications.
 
 ## 🛠️ Tech Stack
 
