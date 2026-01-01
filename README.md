@@ -31,9 +31,6 @@ I'm Maithilee Pardhi, a passionate full stack web developer currently in my fina
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maithilee24&layout=compact&theme=radical)](https://github.com/maithilee24)
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maithilee-pardhi-2a6947256)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maithilee24)
